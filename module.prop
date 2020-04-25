@@ -1,6 +1,6 @@
 id=tissot-stock-camhal
 name=Mi A1 Stock Camera HAL for custom ROMs
-version=v3
-versionCode=3
-author=flex1911
+version=v4
+versionCode=4
+author=flex1911,Abhinavgupta371
 description=Stock camera HAL and libraries for Mi A1 custom ROMs. Install only if you want to use MIUI camera.
